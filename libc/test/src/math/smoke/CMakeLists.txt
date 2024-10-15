@@ -3727,6 +3727,7 @@ add_fp_unittest(
     libc.hdr.fenv_macros
     libc.src.errno.errno
     libc.src.math.coshf16
+    libc.src.__support.FPUtil.cast
 )
 
 add_fp_unittest(
@@ -3752,6 +3753,7 @@ add_fp_unittest(
     libc.hdr.fenv_macros
     libc.src.errno.errno
     libc.src.math.sinhf16
+    libc.src.__support.FPUtil.cast
 )
 
 add_fp_unittest(
