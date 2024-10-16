@@ -7,7 +7,7 @@ three blog posts that describe the process of porting the Kaleidoscope tutorial
 to use the MCJIT execution engine instead of the older JIT engine.
 
 The link of blog post-
-https://blog.llvm.org/posts/2013-07-22-using-mcjit-with-kaleidoscope-tutorial/
+https://blog.llvm.org/2013/07/using-mcjit-with-kaleidoscope-tutorial.html
 
 The source code in this directory demonstrates the initial working version of
 the program before subsequent performance improvements are applied.
